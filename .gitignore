@@ -1,0 +1,6 @@
+#SQL Server
+*.bak
+*.ldf
+*.mdf
+#Visual Studio
+.vscode/
